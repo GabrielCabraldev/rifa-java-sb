@@ -1,4 +1,4 @@
-package com.rifa.controller.dto;
+package com.rifa.dto;
 
 import lombok.Data;
 
